@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MOHAMEDGHAFFOUR
+- 👀 I’m interested in software engineering, with a focus on full stack development.
+- 🌱 I’m currently learning the fundamentals of full stack development, including front-end technologies like HTML, CSS, JavaScript, and back-end technologies like Node.js and databases.
+- 💞️ I’m looking to collaborate on projects that involve building full stack web applications or any open-source projects where I can learn and contribute.
+- 📫 How to reach me: You can reach me via email at [elchinosimo@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-ghaffour-916b33323/).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm passionate about creating seamless user experiences and building robust back-end systems to support them!
